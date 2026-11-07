@@ -22,6 +22,7 @@ FEATURES
 - Display the final results
 
 CURRENT QUESTION LIMIT
+
 5 questions per category (initial version)
 
 TECHNOLOGIES USED
