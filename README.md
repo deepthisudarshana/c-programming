@@ -31,4 +31,5 @@ TECHNOLOGIES USED
 - GitHub
 
 PROJECT STATUS
+
 Planning and development in progress
