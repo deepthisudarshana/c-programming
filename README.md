@@ -1,4 +1,5 @@
 QuizQuest – The Ultimate Mixed Quiz Game
+
 ABOUT
 
 QuizQuest is a fun, interactive quiz game developed using the C programming language
